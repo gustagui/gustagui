@@ -3,6 +3,7 @@
 - 🔭 Hoje trabalho com comércio, mas estou em busca de migrar de carreira e trabalhar com back-end.
 - 🌱 Estudando desenvolvimento web full stack
 - 😄 Pronouns: ele/dele
+- 💻 https://portfoliogustagui.herokuapp.com/
 
 <div>
   <a href="https://github.com/gustagui">
