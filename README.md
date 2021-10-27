@@ -1,6 +1,6 @@
 ### Oi eu sou o Gok.. ops! haha! .. Gustavo 👋
 
-- 🔭 Hoje trabalho com comércio, mas estou em busca de migrar de carreira e trabalhar com back-end.
+- 🔭 Hoje trabalhando como freelancer no meu tempo livre.
 - 🌱 Estudando desenvolvimento web full stack
 - 😄 Pronouns: ele/dele
 - 💻 https://portfoliogustagui.herokuapp.com/
