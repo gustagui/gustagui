@@ -1,4 +1,4 @@
-### Oi eu sou o Gok.. ops! haha! .. Gustavo 👋
+### Oi eu sou o Gustavo 👋
 
 - 🔭 Hoje trabalhando como freelancer no meu tempo livre.
 - 🌱 Estudando desenvolvimento web full stack
