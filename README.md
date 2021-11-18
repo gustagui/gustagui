@@ -6,7 +6,7 @@
 - 💻 https://www.gustagui.com.br/
 
 <div>
-  <a href="https://www.gustagui.com.br/" target="_blank">
+  <a target="_blank" href="https://www.gustagui.com.br/" >
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gustagui&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustagui&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
