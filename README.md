@@ -1,12 +1,12 @@
-### Oi eu sou o Gustavo 👋
+### Hi i'm Gustavo 👋
 
-- 🔭 Hoje trabalhando como freelancer no meu tempo livre.
-- 🌱 Estudando desenvolvimento web full stack
+- 🔭 I am currently studying and working as a freelancer in my spare time.
+- 🌱 Learning development web full stack on Digital House.
 - 😄 Pronouns: ele/dele
-- 💻 https://portfoliogustagui.herokuapp.com/
+- 💻 https://www.gustagui.com.br/
 
 <div>
-  <a href="https://github.com/gustagui">
+  <a href="https://www.gustagui.com.br/" target="blank">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gustagui&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustagui&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
