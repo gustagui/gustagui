@@ -1,6 +1,6 @@
 ### Hi i'm Gustavo 👋
 
-- 🔭 I am currently studying and working as a freelancer in my spare time.
+- 🔭 Atualmente procurando projetos como freelancer e estudando nas horas livres.
 - 😄 Pronouns: ele/dele
 - 💻 https://www.gustagui.com.br/
 
