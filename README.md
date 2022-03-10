@@ -1,7 +1,6 @@
 ### Hi i'm Gustavo 👋
 
 - 🔭 I am currently studying and working as a freelancer in my spare time.
-- 🌱 Learning development web full stack on Digital House.
 - 😄 Pronouns: ele/dele
 - 💻 https://www.gustagui.com.br/
 
